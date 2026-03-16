@@ -1,0 +1,1 @@
+pycache/ .pyc .pyo *.pyd .ipynb_checkpoints/ .env venv/ .env/ .DS_Store
